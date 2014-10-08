@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.9.2'
+    }
+}
+
+apply plugin: 'android'
+
+
+android {
+    buildToolsVersion "20"
+    compileSdkVersion 20
+} 
+android {
+	lintOptions {
+	 	abortOnError false
+	}
+}
