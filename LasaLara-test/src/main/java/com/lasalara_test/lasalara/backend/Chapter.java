@@ -1,4 +1,4 @@
-package com.lasalara_test.lasalara.backend;
+package main.java.com.lasalara_test.lasalara.backend;
 
 import java.io.IOException;
 import java.net.URLEncoder;

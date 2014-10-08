@@ -1,6 +1,6 @@
-package com.lasalara_test.lasalara;
+package main.java.com.lasalara_test.lasalara;
 
-import com.lasalara_test.lasalara.constants.StringConstants;
+import main.java.com.lasalara_test.lasalara.constants.StringConstants;
 
 import android.app.Application;
 import android.content.Context;

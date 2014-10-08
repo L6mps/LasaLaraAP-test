@@ -1,4 +1,4 @@
-package com.lasalara_test.lasalara.backend;
+package main.java.com.lasalara_test.lasalara.backend;
 
 /**
  * Class responsible for holding a question's information

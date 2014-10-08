@@ -16,9 +16,9 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-		android:name="com.lasalara_test.lasalara.LasaLaraApplication">
+		android:name="main.java.com.lasalara_test.lasalara.LasaLaraApplication">
         <activity
-            android:name="com.lasalara_test.lasalara.activities.BookListPageActivity"
+            android:name="main.java.com.lasalara_test.lasalara.activities.BookListPageActivitygeActivity"
             android:label="@string/app_name"
             android:permission="android.permission.INTERNET" >
             <intent-filter>

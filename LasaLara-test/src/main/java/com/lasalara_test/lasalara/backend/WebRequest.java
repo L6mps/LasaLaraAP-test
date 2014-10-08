@@ -1,11 +1,9 @@
-package com.lasalara_test.lasalara.backend;
+package main.java.com.lasalara_test.lasalara.backend;
 
 import android.content.Context;
 import android.os.Build;
 import android.util.Log;
 
-import com.lasalara_test.lasalara.LasaLaraApplication;
-import com.lasalara_test.lasalara.constants.StringConstants;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -13,6 +11,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+
+import main.java.com.lasalara_test.lasalara.LasaLaraApplication;
+import main.java.com.lasalara_test.lasalara.constants.StringConstants;
 
 import org.json.JSONException;
 import org.json.JSONObject;

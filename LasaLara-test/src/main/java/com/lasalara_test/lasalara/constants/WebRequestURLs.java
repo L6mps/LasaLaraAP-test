@@ -1,4 +1,4 @@
-package com.lasalara_test.lasalara.constants;
+package main.java.com.lasalara_test.lasalara.constants;
 
 /**
  * Enumerator for all of the web request addresses in the application.

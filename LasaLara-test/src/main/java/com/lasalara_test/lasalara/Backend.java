@@ -1,14 +1,15 @@
-package com.lasalara_test.lasalara;
+package main.java.com.lasalara_test.lasalara;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import main.java.com.lasalara_test.lasalara.backend.Book;
+
 import org.json.JSONException;
 
 import android.content.Context;
 
-import com.lasalara_test.lasalara.backend.Book;
 
 /**
  * The main class of the back end of the application.

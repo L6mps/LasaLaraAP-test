@@ -1,4 +1,4 @@
-package com.lasalara_test.lasalara.activities;
+package main.java.com.lasalara_test.lasalara.activities;
 
 import com.lasalara_test.lasalara.R;
 
